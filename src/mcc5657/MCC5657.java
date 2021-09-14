@@ -16,6 +16,9 @@ public class MCC5657 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Pembagian pembagian = new Pembagian();
+        System.out.println(pembagian.bagi(4, 2));
+        
     }
     
 }
