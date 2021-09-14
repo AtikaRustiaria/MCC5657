@@ -26,6 +26,7 @@ public class MCC5657 {
         //System.out.println(Tambah.penambahan(2, 1));
         Perkalian perkalian = new Perkalian(8,9);
         System.out.println(perkalian.hasilPerkalian());
+        System.out.println("Hallo");
     }
     
 }
