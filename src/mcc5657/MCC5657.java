@@ -18,7 +18,8 @@ public class MCC5657 {
         // TODO code application logic here
         Pembagian pembagian = new Pembagian();
         System.out.println(pembagian.bagi(4, 2));
-        
+        Pengurangan p = new Pengurangan();
+        System.out.println("Hasil Pengurangan = " + p.Hitung(454, 35));
     }
     
 }
