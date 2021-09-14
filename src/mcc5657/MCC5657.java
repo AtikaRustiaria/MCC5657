@@ -22,6 +22,8 @@ public class MCC5657 {
         Pengurangan p = new Pengurangan();
         System.out.println("Hasil Pengurangan = " + p.Hitung(454, 35));
         
+        
+        
          Penambahan Tambah = new Penambahan();
         System.out.println(Tambah.penambahan(2, 1));
     }
